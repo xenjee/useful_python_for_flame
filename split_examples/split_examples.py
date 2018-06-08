@@ -9,9 +9,9 @@ print split_my_path
 print '-' * 30
 #############################
 
-str = "Line1-abcdef \nLine2-abc \nLine4-abcd"
-print str.split()
-print str.split(' ', 1)
+string01 = "Line1-abcdef \nLine2-abc \nLine4-abcd"
+print string01.split()
+print string01.split(' ', 1)
 
 print '-' * 30
 #############################
